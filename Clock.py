@@ -26,3 +26,4 @@ clock()
 
 # Ana döngüyü başlat
 root.mainloop()
+
